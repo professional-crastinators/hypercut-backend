@@ -1,3 +1,12 @@
+*.json
+*.flac
+*.m4a
+*.wav
+uploads/
+*test*.*
+*.pkl
+*.db
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
